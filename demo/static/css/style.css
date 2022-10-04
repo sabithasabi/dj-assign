@@ -1,0 +1,31 @@
+.w{
+    width: 400px;
+    height: 200px;
+    margin-top: 100px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-left: 150px;
+    background-color: aquamarine;
+    color: brown;
+    text-align: center;
+    display: inline-block;
+    border-style: inset;
+    
+}
+.w1{
+    width: 400px;
+    height: 200px;
+    margin-top: 80px;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-left: 100px;
+    background-color: aquamarine;
+    color: brown;
+    text-align: center;
+    display: inline-block;
+    border-style: inset;
+    
+}
+body{
+    background-image: url(../images/doctor.jpg);
+}
